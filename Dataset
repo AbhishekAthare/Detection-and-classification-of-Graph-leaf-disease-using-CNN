@@ -1,0 +1,3 @@
+Here is the link to dataset("https://www.kaggle.com/datasets/rm1000/grape-disease-dataset-original")
+The dataset used is from kaggle containing 4 types of labeled leaf folders.
+Around 7000+ traning graph leaf and 1000+ used for testing purpose to Developed Deep Learning model
